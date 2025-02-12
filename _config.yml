@@ -10,21 +10,23 @@
 ############################
 
 # Name of website
-title: My website
+title: Data-Driven Health Insights
 
 # Your name to show in the footer
-author: Some Person
+author: Scarlett Thomas
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: Woman in science doing a small, but related pivot from public health epi to health data science.  
+    I think Colombian food is highly underrated and I love a good sunrise.  Hoping to help my US colleagues in public health
+    in the fight to keep people healthy.
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+ # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -50,14 +52,8 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "scarlettsierrathomas@gmail.com"
+  github: scarlett-st
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -85,7 +81,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -100,7 +96,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "datadrivenpublichealth.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -126,7 +122,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+#keywords: "'public health',data,'data science','health data science', 'public health data science'"
 
 ######################################
 # --- Colours / background image --- #
@@ -134,17 +130,18 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+page-col: "#FFFFFF"          # Keep the page background white for a clean look
+text-col: "#404040"          # Keep text dark grey for readability
+link-col: "#6C91C2"          # Use soft blue for links
+hover-col: "#A3B18A"         # Use sage green for link hover effects
+navbar-col: "#F2E394"        # Use soft yellow for the navigation bar background
+navbar-text-col: "#404040"   # Keep navbar text dark grey for contrast
+navbar-border-col: "#A3B18A" # Use sage green for navbar borders
+footer-col: "#EAEAEA"        # Light grey for footer background (neutral tone)
+footer-text-col: "#777777"   # Medium grey for footer text
+footer-link-col: "#6C91C2"   # Soft blue for footer links
+footer-hover-col: "#A3B18A"  # Sage green for footer link hover effects
+
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
