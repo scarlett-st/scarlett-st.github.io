@@ -20,11 +20,12 @@ author: Scarlett Thomas
 ###############################################
 
 navbar-links:
-  About Me: 
+  About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
- # Author's home: "https://deanattali.com"
+    - Canadian Public Health (until we get our CDC back): "https://www.canada.ca/en/public-health.html"
+    - Easy Epi: "https://www.yourlocalepidemiologist.co/"
+    - Unbiased Science: "https://www.immunologic.org/"
+ # Author's home: "https://www.linkedin.com/in/scarlett-thomas-91984853/"
 
 ################
 # --- Logo --- #
