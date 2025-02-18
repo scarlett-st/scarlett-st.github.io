@@ -135,7 +135,7 @@ page-col: "#FFFFFF"          # Keep the page background white for a clean look
 text-col: "#404040"          # Keep text dark grey for readability
 link-col: "#6C91C2"          # Use soft blue for links
 hover-col: "#A3B18A"         # Use sage green for link hover effects
-navbar-col: "#F2E394"        # Use soft yellow for the navigation bar background
+navbar-col: "#A3B18A"        # Use soft yellow for the navigation bar background
 navbar-text-col: "#404040"   # Keep navbar text dark grey for contrast
 navbar-border-col: "#A3B18A" # Use sage green for navbar borders
 footer-col: "#EAEAEA"        # Light grey for footer background (neutral tone)
