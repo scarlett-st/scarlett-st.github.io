@@ -9,7 +9,7 @@ Woman in science doing a small, but related, pivot from public health epi to hea
 ### Background
 - Bachelor of Art in Biomedical Humanities, Hiram College (2003)
 - Master of Science in Public Health, University of Utah (2009)
-- Currently pursuing a Master of Health Data Science, Universitat Rovira i Virgili (because apparently, we need to go abroad to learn about proper health now)
+- Currently pursuing a Master of Health Data Science, Universitat Rovira i Virgili 
 
 
 
