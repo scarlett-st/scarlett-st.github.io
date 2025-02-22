@@ -1,4 +1,5 @@
-.navbar-brand img {
-  max-height: 200px; /* Adjust this value to your desired size */
-  width: auto;
+@media (min-width: 1200px) {
+  .navbar-custom .navbar-brand-logo img {
+    height: 4rem; /* Increase from 3.125rem */
+  }
 }
