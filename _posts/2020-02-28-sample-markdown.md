@@ -1,19 +1,61 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
-mathjax: true
-author: Bill Smith
+title: Cloud Computing in Public Health
+subtitle: It's about damn time 
+author: Scarlett Thomas
 ---
 
 {: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+Imagine this: you're hired to help tackle the day-to-day public health response during one of the most impactful pandemics of your lifetime.  You put on your epi hat, ready to use your training to track and diminish disease spread.  You open your laptop and are given access to all of the tools available.  Cue dumbfounded blinking.  A google sheets spreadsheet whose data has been manually input by other epidemiologists combing through lab reports?  You've gotta be kidding me.  
+
+These were my thoughts 4.5 years ago when I was hired as an analytical epidemiologist to help support the COVID-19 response in healthcare facilities.  The realities of how siloed and technologically behind the state department of health was set in quickly when I was asked to create dashboards and situation reports to communicate the impacts of the spread and our current containment efforts.  
 
 **Here is some bold text**
+Cloud computing has revolutionized public health surveillance and decision-making, particularly in tracking infectious diseases across healthcare settings. The paper by Katapally and Ibrahim on digital health dashboards serves as an excellent starting point to explore this topic further.
+
+## Cloud-Based Infrastructure for Public Health Surveillance
+
+The authors of the study utilized Amazon Web Services (AWS) to create a secure and scalable infrastructure for their digital health dashboard[1]. This approach demonstrates the power of cloud computing in public health:
+
+1. Virtual Private Clouds (VPCs): Two VPCs hosted on AWS provided secure environments for data storage and communication between the database, Progressive Web Application (PWA), and digital health dashboard[1].
+
+2. Scalability: Amazon Elastic Compute Cloud (EC2) servers offer the flexibility to scale resources up or down based on demand, crucial for handling sudden outbreaks or increased data loads[1].
+
+3. Secure Data Management: Amazon Relational Database servers ensure secure storage and management of sensitive health data[1].
+
+## Tracking Infectious Diseases Across Healthcare Settings
+
+For tracking the movement of infectious diseases, particularly Multi-Drug Resistant Organisms (MDROs), across different healthcare settings, cloud computing offers several advantages:
+
+### Real-Time Data Collection and Analysis
+
+Cloud-based systems like the Hospital Automated Laboratory Reporting (HALR) system can provide early reporting of specified pathogens, allowing for early detection of outbreaks and trend analysis[5]. This real-time capability is crucial when patients move between different healthcare settings.
+
+### Interoperability and Data Sharing
+
+Cloud platforms facilitate seamless data sharing between different healthcare facilities. When a patient is transferred from an OR to recovery, and then to a nursing home, their infection status can be instantly updated and shared across all relevant systems[3].
+
+### Advanced Analytics and Machine Learning
+
+Cloud computing enables the use of advanced analytics and machine learning algorithms to predict the spread of MDROs based on patient movement patterns and facility characteristics[3].
+
+## National Healthcare Safety Network (NHSN)
+
+The CDC's National Healthcare Safety Network (NHSN) is a prime example of how cloud computing can be leveraged for nationwide infectious disease surveillance:
+
+1. Secure, Internet-based surveillance system for submitting both patient and healthcare personnel safety data[2].
+
+2. Standardized definitions and risk-adjusted infection rates allow for benchmarking across facilities[2].
+
+3. Provides valuable data on the frequency and antimicrobial susceptibility of pathogens[2].
+
+## Future Directions
+
+The CDC's recent $189 million cloud computing project aims to modernize its IT infrastructure, develop advanced analytic capabilities, and ensure more effective cybersecurity[3]. This initiative will likely enhance the ability to track and respond to infectious diseases across various healthcare settings.
+
+By leveraging cloud computing, public health officials can create a more interconnected, responsive, and effective system for tracking and controlling the spread of infectious diseases, including MDROs, as patients move through different healthcare settings. This approach not only improves patient safety but also contributes to more efficient and targeted infection control strategies.
+
+
 
 ## Here is a secondary heading
 
