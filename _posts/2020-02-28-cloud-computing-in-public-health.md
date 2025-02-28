@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cloud Computing in Public Health: It's About Damn Time
+title: "Cloud Computing in Public Health: It's About Damn Time"
 subtitle: Ditching the Spreadsheets and Embracing the Cloud
 author: Scarlett Thomas
 ---
