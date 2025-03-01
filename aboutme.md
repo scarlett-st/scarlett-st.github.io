@@ -4,7 +4,7 @@ title: About me
 subtitle: Data Scientist (in training) and Public Health Enthusiast
 ---
 
-Woman in science doing a small, but related, pivot from public health epi to health data science. I think Colombian food is highly underrated and I love a good sunrise. Dreaming of a world where science trumps politics because, as the great Dr. Neil deGrasse Tyson said, the good thing about science is that it's true whether or not you believe in it.
+Woman in science doing a small, but related, pivot from public health epi to health data science. I think Colombian food is highly underrated and I love a good sunrise.  I love traveling (have visited 35+ countries so far!) and reading, especially science fiction. Dreaming of a world where science trumps politics because, as the great Dr. Neil deGrasse Tyson said, the good thing about science is that it's true whether or not you believe in it.
 
 ### Background
 - Bachelor of Art in Biomedical Humanities, Hiram College (2003)
